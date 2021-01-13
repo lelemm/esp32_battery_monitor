@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIDReader", "HIDReader\HIDReader.csproj", "{6CAFDADE-C119-494A-A0B4-156532E4A62B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WirelessDeviceBatteryMonitorForm", "WirelessDeviceBatteryMonitorForm\WirelessDeviceBatteryMonitorForm.csproj", "{08C74F19-68AD-4CA4-9199-63A7A34D8A21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WirelessDeviceBatteryService", "WirelessDeviceBatteryService\WirelessDeviceBatteryService.csproj", "{BF8C45CC-E326-4744-980C-B0D28CE1DA69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CAFDADE-C119-494A-A0B4-156532E4A62B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CAFDADE-C119-494A-A0B4-156532E4A62B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CAFDADE-C119-494A-A0B4-156532E4A62B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CAFDADE-C119-494A-A0B4-156532E4A62B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C74F19-68AD-4CA4-9199-63A7A34D8A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C74F19-68AD-4CA4-9199-63A7A34D8A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C74F19-68AD-4CA4-9199-63A7A34D8A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C74F19-68AD-4CA4-9199-63A7A34D8A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF8C45CC-E326-4744-980C-B0D28CE1DA69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8C45CC-E326-4744-980C-B0D28CE1DA69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8C45CC-E326-4744-980C-B0D28CE1DA69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8C45CC-E326-4744-980C-B0D28CE1DA69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF77940E-DA25-4AB4-9DAB-0875B06411CD}
+	EndGlobalSection
+EndGlobal
