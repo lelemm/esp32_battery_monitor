@@ -17,7 +17,11 @@ Below you can see the interface created with TFT_espi and lvgl.io:
 ![Image](https://github.com/lelemm/esp32_battery_monitor/blob/main/Images/monitor.jpeg?raw=true)
 
 The first progress bar is the mouse battery
+
 The second progress bar is the headset battery
+
 The third is the PC Volume level
+
 When MIC is muted, the mute icon will be visible.
+
 The bluetooth icon is to show that some device is connected to the BLE server.
